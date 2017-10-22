@@ -51,4 +51,10 @@ http://www.public.asu.edu/~jli09/research.htm
 http://cidse.engineering.asu.edu/directory/huan-liu/
 
 
+UCI
+http://futurehealth.ics.uci.edu/health/#Projects
+
+CLOMUBIA
+http://www.cs.columbia.edu/~ansaf/
+
 
