@@ -31,6 +31,9 @@ https://www.cs.purdue.edu/people/faculty/apothen/
 https://www.cs.purdue.edu/homes/jhonorio/ (cocaine stuff)
 http://www.drineas.org/publications.html
 
+http://www.purdue.edu/discoverypark/rche/research/centers/creat.php
+http://www.purdue.edu/discoverypark/ppri/policy-briefs/index.php?theme=1
+
 USC
 
 https://www.cs.usc.edu/people/faculty/research-faculty/ferreira-da-silva-rafael
