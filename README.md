@@ -1,3 +1,25 @@
+PENN
+Design and Analysis of Algorithms, Advanced Programming Languages, Artificial Intelligence
+UCSD
+Algorithm Design and Analysis in Breadth area and AI topics in Depth area like Statistical Data Analysis and Data Mining and Predictive Analysis
+PURDUE
+COre courses like Algorithms and Programming languages, as well as courses such as Data mining and Bioinformatics.
+USC
+Analysis of Algorithms  and Foundations of Artificial Intelligence
+NEU
+COre cpurses including Programming Design Paradigm and Algorithms, and specializing in AI, with courses like Machine Learning and Natural Language Processing.
+UCI
+-
+ASU
+- 
+STONY
+Data Science Fundamentals, Artificial Intelligence and Big Data Analytics
+UCSB
+-
+UMASS
+Professional MS plan: Core courses such as Algorithms for Data Science, Systems for Data Science and Machine Learning
+
+
 I look forward to the opportunity of working in the data science hub at UCSD, where I'd have the opportunity to work on Machine learning and Big data technologies. Using matchpoint feature, I can work with experts on intersting projects or my own.
 
 To be involved at the Center for Machine Learning and Applications (CMLA) in PennState would be a dream for me. I would have the opportunity to research on various ml areas including  classification, clustering,computational biology, and business, while collaborating with experts in the field.
