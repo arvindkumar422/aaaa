@@ -1,3 +1,16 @@
+PSU - Master of Science in Computer Science and Engineering
+Purdue - Master of Science in Computer Science
+NEU - Master of Science in Computer Science(MSCS)
+UCSD - Master of Science in Computer Science and Engineering
+UMass - Master of Science in Computer Science in the College of Information and Computer Sciences at umass.
+SBU - M.S. Program in Computer Science
+USC - Master of Science in Computer Science(General)
+ASU - Master of Computer Science (MCS)
+Columbia - Master of Science in Data Science
+UCI - Master of Computer Science
+NC State - Master of Computer Science - track in Data Science
+
+
 PENN
 Design and Analysis of Algorithms, Advanced Programming Languages, Artificial Intelligence
 UCSD
