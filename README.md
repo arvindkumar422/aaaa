@@ -1,3 +1,9 @@
+http://www.mccormick.northwestern.edu/research/innovation-global-health-technologies-center/education/
+
+http://www.mccormick.northwestern.edu/research/optimization-machine-learning-center/education/
+
+
+
 PSU - Master of Science in Computer Science and Engineering
 Purdue - Master of Science in Computer Science
 NEU - Master of Science in Computer Science(MSCS)
