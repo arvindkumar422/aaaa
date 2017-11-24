@@ -2,6 +2,8 @@ http://www.mccormick.northwestern.edu/research/innovation-global-health-technolo
 
 http://www.mccormick.northwestern.edu/research/optimization-machine-learning-center/education/
 
+UVA - Programming and Systems for Data Science, Artificial Intelligence, Machine Learning
+NW - Machine Learning, Introduction to AI, Propgramming in AI, Personal Health Systems
 
 
 PSU - Master of Science in Computer Science and Engineering
